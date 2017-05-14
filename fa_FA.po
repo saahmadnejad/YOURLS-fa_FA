@@ -66,12 +66,12 @@ msgstr "تعداد کلیک ها"
 
 #: yourls-infos.php:332
 msgid "Historical click count"
-msgstr ""
+msgstr "تعداد کلیک های سابق"
 
 #: yourls-infos.php:338
 msgid "about 1 day ago"
 msgid_plural "about %s days ago"
-msgstr[0] ""
+msgstr[0] "حدود یک روز پیش"
 
 #. //translators: eg Short URL created on March 23rd 1972
 #: yourls-infos.php:341
@@ -89,7 +89,7 @@ msgstr "%s در ساعت"
 #: yourls-infos.php:366
 msgid "%s hit"
 msgid_plural "%s hits"
-msgstr[0] ""
+msgstr[0] "%s کلیک"
 
 #: yourls-infos.php:373
 msgid "Best day"
@@ -128,11 +128,11 @@ msgstr "ترافیک کلی"
 
 #: yourls-infos.php:463
 msgid "No country data."
-msgstr ""
+msgstr "بدون اطلاعات کشور."
 
 #: yourls-infos.php:478
 msgid "Referrer shares"
-msgstr ""
+msgstr "اشتراک گذاری های ارجاعی"
 
 #: yourls-infos.php:481
 msgid "Others"
@@ -140,7 +140,7 @@ msgstr "دیگران"
 
 #: yourls-infos.php:485 yourls-infos.php:518
 msgid "Referrers"
-msgstr ""
+msgstr "ارجاعات"
 
 #: yourls-infos.php:492 yourls-infos.php:502
 msgid "(details)"
@@ -148,7 +148,7 @@ msgstr "(جزییات)"
 
 #: yourls-infos.php:502
 msgid "Various:"
-msgstr ""
+msgstr "گوناگون:"
 
 #: yourls-infos.php:516
 msgid "Direct vs Referrer Traffic"
@@ -156,11 +156,11 @@ msgstr ""
 
 #: yourls-infos.php:518
 msgid "Direct"
-msgstr ""
+msgstr "مستقیم"
 
 #: yourls-infos.php:520
 msgid "Direct traffic:"
-msgstr ""
+msgstr "ترافیک مستقیم"
 
 #: yourls-infos.php:520 yourls-infos.php:521
 msgid "<strong>%s</strong> hit"
@@ -169,11 +169,11 @@ msgstr[0] ""
 
 #: yourls-infos.php:521
 msgid "Referrer traffic:"
-msgstr ""
+msgstr "ترافیک ارجاعی:"
 
 #: yourls-infos.php:530
 msgid "No referrer data."
-msgstr ""
+msgstr "بدون اطلاعات ارجاعی."
 
 #: yourls-infos.php:541
 msgid "Short link"
@@ -417,7 +417,7 @@ msgstr "کلیدواژه های سفارشی"
 
 #: admin/tools.php:53
 msgid "Custom shorten"
-msgstr ""
+msgstr "کوتاه سازی سفارشی"
 
 #: admin/tools.php:54
 msgid "Instant Custom Shorten"
@@ -501,7 +501,7 @@ msgstr ""
 
 #: admin/tools.php:117 admin/tools.php:119
 msgid "actual value:"
-msgstr ""
+msgstr "مقدار واقعی:"
 
 #: admin/tools.php:122
 msgid "Now use parameters <tt>signature</tt> and <tt>timestamp</tt> in your API requests. Example:"
@@ -509,7 +509,7 @@ msgstr ""
 
 #: admin/tools.php:124
 msgid "Actual values:"
-msgstr ""
+msgstr "مقادیر واقعی:"
 
 #: admin/tools.php:126
 msgid "This URL would be valid for only %s seconds"
@@ -521,7 +521,7 @@ msgstr ""
 
 #: admin/upgrade.php:9 admin/upgrade.php:13
 msgid "Upgrade YOURLS"
-msgstr ""
+msgstr "ارتقا YOURLS"
 
 #: admin/upgrade.php:18
 msgid "Upgrade not required. Go <a href=\"%s\">back to play</a>!"
@@ -557,7 +557,7 @@ msgstr ""
 
 #: admin/upgrade.php:77
 msgid "Your installation is now up to date ! "
-msgstr ""
+msgstr "اکنون بروزرسانی شد!␣"
 
 #: admin/upgrade.php:78
 msgid "Go back to <a href=\"%s\">the admin interface</a>"
@@ -582,11 +582,11 @@ msgstr ""
 #: includes/class-mysql.php:40 includes/functions-install.php:16
 #: includes/functions.php:438 includes/functions.php:450
 msgid "Fatal error"
-msgstr ""
+msgstr "خطا"
 
 #: includes/functions-auth.php:26
 msgid "Logged out successfully"
-msgstr ""
+msgstr "خروج باموفقیت"
 
 #: includes/functions-auth.php:102
 msgid "Invalid username or password"
@@ -594,37 +594,37 @@ msgstr ""
 
 #: includes/functions-auth.php:104
 msgid "Please log in"
-msgstr ""
+msgstr "لطفا وارد شوید"
 
 #: includes/functions-html.php:142
 msgid "1 query"
 msgid_plural "%s queries"
-msgstr[0] ""
+msgstr[0] "یک پرسش و پاسخ"
 
 #: includes/functions-html.php:147
 msgid "Powered by %s"
-msgstr ""
+msgstr "نیرو گرفته از %s"
 
 #: includes/functions-html.php:175
 msgid "Enter the URL"
-msgstr ""
+msgstr "آدرس را وارد کنید"
 
 #: includes/functions-html.php:176
 msgid "Optional "
-msgstr ""
+msgstr "اختیاری␣"
 
 #: includes/functions-html.php:176
 msgid "Custom short URL"
-msgstr ""
+msgstr "آدرس کوتاه سفارشی"
 
 #: includes/functions-html.php:178
 msgid "Shorten The URL"
-msgstr ""
+msgstr "کوتاه سازی آدرس"
 
 #: includes/functions-html.php:212 includes/functions-html.php:224
 #: includes/functions-html.php:629
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #. //translators: "Search for <input field with text to search> in <select dropdown with URL, title...>"
 #: includes/functions-html.php:216
@@ -633,11 +633,11 @@ msgstr ""
 
 #: includes/functions-html.php:230
 msgid "Ascending"
-msgstr ""
+msgstr "صعودی"
 
 #: includes/functions-html.php:231
 msgid "Descending"
-msgstr ""
+msgstr "نزولی"
 
 #. //translators: "Order by <criteria dropdown (date, clicks...)> in <order dropdown (Descending or Ascending)>"
 #: includes/functions-html.php:235
@@ -1227,10 +1227,10 @@ msgstr ""
 #: user/plugins/sample-toolbar/plugin.php:62
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
+msgstr[0] "روز"
 
 #: user/plugins/sample-toolbar/plugin.php:67
 msgid "view"
 msgid_plural "views"
-msgstr[0] ""
+msgstr[0] "بازدید"
 
