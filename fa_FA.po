@@ -199,7 +199,7 @@ msgstr "آدرس IP"
 
 #: admin/index.php:50
 msgid "Searching for <strong>%1$s</strong> in <strong>%2$s</strong>."
-msgstr ""
+msgstr "جستجوی <strong>%1$s</strong> در<strong>%2$s</strong>."
 
 #: admin/index.php:101 includes/functions-html.php:223
 #: includes/functions-html.php:628
@@ -213,7 +213,7 @@ msgstr "کلیک ها"
 
 #: admin/index.php:187 admin/index.php:198 admin/index.php:209
 msgid "Short URL created, but could not redirect to %s !"
-msgstr ""
+msgstr "آدرس کوتاه ساخته شد، اما نمی تواند به %s هدایت شود!"
 
 #: admin/index.php:219
 msgid "Unknown \"Share\" bookmarklet"
@@ -246,7 +246,7 @@ msgstr "YOURLS قبلا نصب شده است."
 
 #: admin/install.php:35
 msgid "File <tt>.htaccess</tt> successfully created/updated."
-msgstr ""
+msgstr "فایل <tt>.htaccess</tt> با موفقیت ساخته شد/ آپلود شد."
 
 #: admin/install.php:37
 msgid "Could not write file <tt>.htaccess</tt> in YOURLS root directory. You will have to do it manually. See <a href=\"http://yourls.org/htaccess\">how</a>."
@@ -266,7 +266,7 @@ msgstr "فعالیت پشتیبانی نشده"
 
 #: admin/plugins.php:42
 msgid "No plugin specified, or not a valid plugin"
-msgstr ""
+msgstr "افزونه مشخص نشده یا معتبر نیست."
 
 #: admin/plugins.php:51
 msgid "Plugin has been activated"
@@ -287,12 +287,12 @@ msgstr "افزونه ها"
 #: admin/plugins.php:70
 msgid "%s plugin"
 msgid_plural "%s plugins"
-msgstr[0] ""
+msgstr[0] "%s افزونه"
 
 #. //translators: "you have '3 plugins' installed and '1' activated"
 #: admin/plugins.php:74
 msgid "You currently have <strong>%1$s</strong> installed, and <strong>%2$s</strong> activated"
-msgstr ""
+msgstr "شما در حال حاضر <strong>%1$s</strong> نصب شده، و <strong>%2$s</strong> فعال دارید."
 
 #: admin/plugins.php:79
 msgid "Plugin Name"
@@ -328,11 +328,11 @@ msgstr ""
 
 #: admin/plugins.php:150
 msgid "Toggle active/inactive plugins"
-msgstr ""
+msgstr "تغییر حالت فعال/غیر فعال افزونه ها"
 
 #: admin/plugins.php:157
 msgid "If something goes wrong after you activate a plugin and you cannot use YOURLS or access this page, simply rename or delete its directory, or rename the plugin file to something different than <code>plugin.php</code>."
-msgstr ""
+msgstr "اگر بعد از اینکه افزونه را فعال کردید اتفاق اشتباهی رخ داد و شما توانستید از YOURLS استفاده کنید یا به این صفحه دسترسی داشته باشید، به سادگی نام دایرکتوری را عوض کرده یا آن را حذف کنید، یا نام فایل افزونه را به جیزی جز <code>plugin.php</code> تغییر دهید."
 
 #: admin/plugins.php:159
 msgid "More plugins"
@@ -340,7 +340,7 @@ msgstr "افزونه های بیشتر"
 
 #: admin/plugins.php:161
 msgid "For more plugins, head to the official <a href=\"http://yourls.org/pluginlist\">Plugin list</a>."
-msgstr ""
+msgstr "برای دیدن افزونه های بیشتر به صفحه رسمی <a href=\"http://yourls.org/pluginlist\">لیست افزونه ها</a> سری بزنید."
 
 #: admin/tools.php:6
 msgid "Cool YOURLS Tools"
@@ -356,7 +356,7 @@ msgstr ""
 
 #: admin/tools.php:17
 msgid "Standard or Instant, Simple or Custom"
-msgstr ""
+msgstr "استاندارد یا فوری، ساده یا سفارشی"
 
 #: admin/tools.php:20
 msgid "The <span>Standard Bookmarklets</span> will take you to a page where you can easily edit or delete your brand new short URL."
@@ -384,7 +384,7 @@ msgstr ""
 
 #: admin/tools.php:35 admin/tools.php:62
 msgid "Click and drag links to your toolbar (or right-click and bookmark it)"
-msgstr ""
+msgstr "کلیک کنید و لینک ها را به نوار ابزارتان بکشید (یا کلیک راست کنید و آن را نشانه گذاری کنید)"
 
 #: admin/tools.php:41
 msgid "Standard (new page)"
@@ -392,7 +392,7 @@ msgstr "استاندارد (صفحه جدید)"
 
 #: admin/tools.php:42
 msgid "Instant (popup)"
-msgstr ""
+msgstr "فوری (پاپ آپ)"
 
 #: admin/tools.php:47
 msgid "Simple"
@@ -409,7 +409,7 @@ msgstr "کوتاه شده"
 
 #: admin/tools.php:49
 msgid "Instant Shorten"
-msgstr ""
+msgstr "کوتاه سازی فوری"
 
 #: admin/tools.php:52
 msgid "Custom Keyword"
@@ -421,7 +421,7 @@ msgstr "کوتاه سازی سفارشی"
 
 #: admin/tools.php:54
 msgid "Instant Custom Shorten"
-msgstr ""
+msgstr "کوتاه سازی سفارشی فوری"
 
 #: admin/tools.php:59
 msgid "Social Bookmarklets"
@@ -429,7 +429,7 @@ msgstr ""
 
 #: admin/tools.php:61
 msgid "Create a short URL and share it on social networks, all in one click!"
-msgstr ""
+msgstr "یک آدرس کوتاه بسازید و آن را در شبکه های اجتماعی انتشار دهید، همه فقط با یک کلیک!"
 
 #: admin/tools.php:64
 msgid "Shorten and share:"
@@ -457,7 +457,7 @@ msgstr ""
 
 #: admin/tools.php:85
 msgid "Note: this will probably not work if your web server is running on Windows"
-msgstr ""
+msgstr "توجه: اگر وب سرور شما در حال کار بر روی ویندوز است، این احتنالا کار نخواهد کرد."
 
 #: admin/tools.php:87
 msgid " (which seems to be the case here)"
@@ -465,11 +465,11 @@ msgstr ""
 
 #: admin/tools.php:93
 msgid "Secure passwordless API call"
-msgstr ""
+msgstr "فراخوانی امن بدون پسورد API "
 
 #: admin/tools.php:96
 msgid "YOURLS allows API calls the old fashioned way, using <tt>username</tt> and <tt>password</tt> parameters."
-msgstr ""
+msgstr "YOURLS  اجازه می دهدتا برای فراخوانی API از روش قدیمی استفاده کنید، استفاده از پارامترهای <tt>نام کاربری</tt> و <tt>رمز عبور</tt>"
 
 #: admin/tools.php:98
 msgid "If you're worried about sending your credentials into the wild, you can also make API calls without using your login or your password, using a secret signature token."
@@ -481,23 +481,23 @@ msgstr ""
 
 #: admin/tools.php:103
 msgid "(It's a secret. Keep it secret) "
-msgstr ""
+msgstr "(این یک راز است. یک راز نگهش دارید)␣"
 
 #: admin/tools.php:106
 msgid "This signature token can only be used with the API, not with the admin interface."
-msgstr ""
+msgstr "این توکن امضا فقط می تواند با API استفاده شود، و نه با رابط مدیریت."
 
 #: admin/tools.php:109
 msgid "Usage of the signature token"
-msgstr ""
+msgstr "استفاده از توکن امضا"
 
 #: admin/tools.php:110
 msgid "Simply use parameter <tt>signature</tt> in your API requests. Example:"
-msgstr ""
+msgstr "به آسانی از پارامتر <tt>امضا</tt> در درخواست API خود استفاده کنید. مثال:"
 
 #: admin/tools.php:114
 msgid "Usage of a time limited signature token"
-msgstr ""
+msgstr "استفاده از توکن امضای زماندار"
 
 #: admin/tools.php:117 admin/tools.php:119
 msgid "actual value:"
@@ -505,7 +505,7 @@ msgstr "مقدار واقعی:"
 
 #: admin/tools.php:122
 msgid "Now use parameters <tt>signature</tt> and <tt>timestamp</tt> in your API requests. Example:"
-msgstr ""
+msgstr "حالا از پارامترهای <tt>امضا</tt> و <tt>برچسب زمان</tt> در درخواست API خود استفاده کنید. مثال:"
 
 #: admin/tools.php:124
 msgid "Actual values:"
@@ -513,11 +513,11 @@ msgstr "مقادیر واقعی:"
 
 #: admin/tools.php:126
 msgid "This URL would be valid for only %s seconds"
-msgstr ""
+msgstr "این آدرس فقط برای %s ثانیه معتبر است."
 
 #: admin/tools.php:130
 msgid "See the <a href=\"%s\">API documentation</a> for more"
-msgstr ""
+msgstr "برای اطلاعات بیشتر <a href=\"%s\">مستندات API</a> را ببینید"
 
 #: admin/upgrade.php:9 admin/upgrade.php:13
 msgid "Upgrade YOURLS"
@@ -525,19 +525,19 @@ msgstr "ارتقا YOURLS"
 
 #: admin/upgrade.php:18
 msgid "Upgrade not required. Go <a href=\"%s\">back to play</a>!"
-msgstr ""
+msgstr "نیازی به ارتقاء نیست. <a href=\"%s\">برای ادامه به عقب برگردید</a>!"
 
 #: admin/upgrade.php:51
 msgid "Your current installation needs to be upgraded."
-msgstr ""
+msgstr "نصب فعلی شما نیاز به ارتقاء دارد."
 
 #: admin/upgrade.php:52
 msgid "Please, pretty please, it is recommended that you <strong>backup</strong> your database<br/>(you should do this regularly anyway)"
-msgstr ""
+msgstr "لطفا، خواهشا توصیه می شود از پایگاه داده خود  <strong>پشتیبانگیری</strong> کنید.<br/>(درهرصورت شما باید اینکار را بصورت منظم انجام دهید)"
 
 #: admin/upgrade.php:53
 msgid "Nothing awful <em>should</em> happen, but this doesn't mean it <em>won't</em> happen, right? ;)"
-msgstr ""
+msgstr "هیچ چیز <em>نباید<em/> بد و ناخوشایند اتفاق بیافتد، اما این به این معنی نیست که اتفاق <em>نخواهد افتاد<em/>، درسته؟ ;)"
 
 #: admin/upgrade.php:54
 msgid "On every step, if <span class='error'>something goes wrong</span>, you'll see a message and hopefully a way to fix."
@@ -549,11 +549,11 @@ msgstr ""
 
 #: admin/upgrade.php:56
 msgid "Once you are ready, press \"Upgrade\" !"
-msgstr ""
+msgstr "هرزمان که آماده بودید، \"بروزرسانی\" را فشار دهید!"
 
 #: admin/upgrade.php:65
 msgid "Upgrade"
-msgstr ""
+msgstr "بروزرسانی"
 
 #: admin/upgrade.php:77
 msgid "Your installation is now up to date ! "
@@ -561,23 +561,23 @@ msgstr "اکنون بروزرسانی شد!␣"
 
 #: admin/upgrade.php:78
 msgid "Go back to <a href=\"%s\">the admin interface</a>"
-msgstr ""
+msgstr "به <a href=\"%s\">رابط مدیریت</a> برگردید."
 
 #: includes/auth.php:53
 msgid "Could not auto-encrypt passwords. Error was: \"%s\"."
-msgstr ""
+msgstr "نمی توان رمزهای عبور را به صورت خودکار رمزنگاری کرد. خطای موجود : \"%s\"."
 
 #: includes/auth.php:55
 msgid "<a href=\"%s\">Get help</a>."
-msgstr ""
+msgstr "<a href=\"%s\">کمک بگیرید.</a>."
 
 #: includes/auth.php:57
 msgid "<a href=\"%s\">Click here</a> to dismiss this message for one week."
-msgstr ""
+msgstr "برای پنهان کردن این پیام برای یک هفته، <a href=\"%s\">اینجا کلیک کنید.</a>"
 
 #: includes/class-mysql.php:39
 msgid "YOURLS requires the mysql, mysqli or pdo_mysql PHP extension. No extension found. Check your server config, or contact your host."
-msgstr ""
+msgstr "YOURLS به mysql، mysqli یا اکستنشن pdo_mysql PHP نیاز دارد. هیچ اکستنشنی پیدا نشد. پیکربندی سرور خود را چک کنید یا با میزبان هاست خود تماس بگیرید."
 
 #: includes/class-mysql.php:40 includes/functions-install.php:16
 #: includes/functions.php:438 includes/functions.php:450
@@ -590,7 +590,7 @@ msgstr "خروج باموفقیت"
 
 #: includes/functions-auth.php:102
 msgid "Invalid username or password"
-msgstr ""
+msgstr "نام کاربری یا رکز عبور نامعنبر"
 
 #: includes/functions-auth.php:104
 msgid "Please log in"
@@ -629,7 +629,7 @@ msgstr "IP"
 #. //translators: "Search for <input field with text to search> in <select dropdown with URL, title...>"
 #: includes/functions-html.php:216
 msgid "Search for %1$s in %2$s"
-msgstr ""
+msgstr "جست و جوی  %1$s در %2$s"
 
 #: includes/functions-html.php:230
 msgid "Ascending"
@@ -647,15 +647,15 @@ msgstr ""
 #. //translators: "Show <text field> rows"
 #: includes/functions-html.php:240
 msgid "Show %s rows"
-msgstr ""
+msgstr "نشان دادن  %s  ردیف"
 
 #: includes/functions-html.php:245
 msgid "more"
-msgstr ""
+msgstr "بیشتر"
 
 #: includes/functions-html.php:246
 msgid "less"
-msgstr ""
+msgstr "کمتر"
 
 #. //translators: "Show links with <more/less> than <text field> clicks"
 #: includes/functions-html.php:251
@@ -664,15 +664,15 @@ msgstr ""
 
 #: includes/functions-html.php:256
 msgid "before"
-msgstr ""
+msgstr "قبل"
 
 #: includes/functions-html.php:257
 msgid "after"
-msgstr ""
+msgstr "بعد"
 
 #: includes/functions-html.php:258
 msgid "between"
-msgstr ""
+msgstr "میان"
 
 #. //translators: "Show links created <before/after/between> <date input> <"and" if applicable> <date input if applicable>"
 #: includes/functions-html.php:265
@@ -706,11 +706,11 @@ msgstr ""
 
 #: includes/functions-html.php:357
 msgid "Your short link"
-msgstr ""
+msgstr "لینک کوتاه شما"
 
 #: includes/functions-html.php:388
 msgid "Long link"
-msgstr ""
+msgstr "لینک اصلی"
 
 #: includes/functions-html.php:390 includes/functions-html.php:499
 #: includes/functions-html.php:500
@@ -739,7 +739,7 @@ msgstr "ذخیره سازی"
 
 #: includes/functions-html.php:464
 msgid "Save new values"
-msgstr ""
+msgstr "ذخیره مقادیر جدید"
 
 #: includes/functions-html.php:464
 msgid "Cancel"
@@ -763,7 +763,7 @@ msgstr "پاک کردن"
 
 #: includes/functions-html.php:541
 msgid "Not a common link"
-msgstr ""
+msgstr "یک لینک متداول نیست"
 
 #: includes/functions-html.php:627
 msgid "Original URL"
@@ -819,11 +819,12 @@ msgstr "بستن"
 
 #: includes/functions-html.php:889
 msgid "<a href=\"%s\">YOURLS version %s</a> is available. Please update!"
-msgstr ""
+msgstr "\n"
+" <a href=\"%s\">YOURLS نسخه %s</a> در دسترس است. لطفا بروزرسانی کنید!"
 
 #: includes/functions-install.php:16 includes/functions.php:438
 msgid "Incorrect DB config, or could not connect to DB"
-msgstr ""
+msgstr "پیکربندی پایگاه داده غلط است، و یا نمی توان به پایگاه داده متصل شد"
 
 #: includes/functions-install.php:241
 msgid "Table '%s' created."
@@ -835,19 +836,19 @@ msgstr "خطا در ساختن جدول '%s'"
 
 #: includes/functions-install.php:249
 msgid "Could not initialize options"
-msgstr ""
+msgstr "نمی توان به گزینه ها مقداردهی اولیه کرد"
 
 #: includes/functions-install.php:253
 msgid "Could not insert sample short URLs"
-msgstr ""
+msgstr "نمی توان آدرس های کوتاه نمونه را اضافه کرد"
 
 #: includes/functions-install.php:257
 msgid "YOURLS tables successfully created."
-msgstr ""
+msgstr "جداول YOURLS  با موفقیت ساخته شد."
 
 #: includes/functions-install.php:259
 msgid "Error creating YOURLS tables."
-msgstr ""
+msgstr "خطا در ساخت جداول YOURLS "
 
 #. //translators: weekday
 #: includes/functions-l10n.php:795 includes/functions-l10n.php:805
@@ -1110,12 +1111,12 @@ msgstr ""
 #. //translators: 'rtl' or 'ltr'. This sets the text direction for YOURLS.
 #: includes/functions-l10n.php:880
 msgid "ltr"
-msgstr "چپ چین"
+msgstr ""
 
 #: includes/functions-plugins.php:387
 msgid "Could not find and deactivated plugin :"
 msgid_plural "Could not find and deactivated plugins :"
-msgstr[0] ""
+msgstr[0] "نمیتوان افزونه را پیدا و غیرفعال کرد"
 
 #: includes/functions-plugins.php:425
 msgid "Not a valid plugin file"
@@ -1127,11 +1128,12 @@ msgstr "افزونه در حال حاضر فعال است"
 
 #: includes/functions-plugins.php:438
 msgid "Plugin generated unexpected output. Error was: <br/><pre>%s</pre>"
-msgstr ""
+msgstr "افزونه خروجی غیرمنتظره ای داده است. خطاهای موجود :<br/>\n"
+"<pre>%s</pre>"
 
 #: includes/functions-plugins.php:461
 msgid "Plugin not active"
-msgstr ""
+msgstr "افزونه غیرفعال است"
 
 #: includes/functions-plugins.php:541
 msgid "This page does not exist. Maybe a plugin you thought was activated is inactive?"
@@ -1216,15 +1218,15 @@ msgstr "خدمات ما در حال حاضر تحت تعمیر و نگهداری
 
 #: includes/functions.php:2066
 msgid "Things should not last very long, thank you for your patience and please excuse the inconvenience"
-msgstr ""
+msgstr "کارها نباید اینقدر طول می کشید، از صبر شما متشکریم و لطفا عذرخواهی ما به خاطر مشکل پیش آمده را بپذیرید."
 
 #: includes/functions.php:2186
 msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr ""
+msgstr "%1$s از زمان نسخه %2$s <strong>منسوخ شده</strong>! بجای آن از %3$s استفاده کنید."
 
 #: includes/functions.php:2188
 msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr ""
+msgstr "از رمانی که %2$s بدون هیچ جایگزینی در دسترس قرار گرفته است %1$s <strong>منصوخ </strong>شده "
 
 #: user/plugins/sample-toolbar/plugin.php:62
 msgid "day"
